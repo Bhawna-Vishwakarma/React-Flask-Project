@@ -1,0 +1,2 @@
+#This command is used to create folder structure for Client-side designs (UI).
+1) npx create-react-app Frontend
